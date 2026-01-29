@@ -1,0 +1,20 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+.idea/
+
+# --- 敏感数据与用户配置 (绝对不能上传) ---
+userdata/
+config/accounts.json
+config/cookies.json
+config.json
+
+# 驱动文件与日志 (由程序自动管理或生成)
+*.exe
+*.log

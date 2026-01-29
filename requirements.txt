@@ -1,0 +1,8 @@
+requests==2.31.0
+selenium==4.15.2
+fake-useragent==1.5.0
+tkinterdnd2==0.4.3
+ttkbootstrap==1.10.1
+pyperclip==1.8.2
+webdriver-manager==4.0.1  # 自动管理浏览器驱动
+selenium-stealth==1.0.6  # 隐藏selenium特征

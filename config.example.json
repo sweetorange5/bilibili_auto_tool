@@ -1,0 +1,22 @@
+{
+    "first_start": false,
+    "ui_settings": {
+        "url": "https://live.bilibili.com/YOUR_ROOM_ID",
+        "import_file": "",
+        "send_mode": "order",
+        "interval_type": "random",
+        "fixed_interval": "10",
+        "random_interval_min": "1",
+        "random_interval_max": "5",
+        "comment_enabled": true,
+        "comment_duration": "1",
+        "comment_content": "支持一下\n主播真棒",
+        "open_url": true,
+        "like_interval_type": "fixed",
+        "like_fixed_interval": "1",
+        "like_random_min": "8",
+        "like_random_max": "12",
+        "like_limit": "100",
+        "like_enabled": true
+    }
+}
